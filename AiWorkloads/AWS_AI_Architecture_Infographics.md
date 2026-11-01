@@ -31,7 +31,7 @@ This guide brings together the available diagrams generated in the conversation.
 ## 01. Amazon Bedrock Knowledge Bases
 **Concept:** RAG Document Assistant
 
-![Amazon Bedrock Knowledge Bases architecture infographic](images/01-amazon-bedrock-knowledge-bases.png)
+![Amazon Bedrock Knowledge Bases architecture infographic](images/01-amazon-bedrock-knowledge-bases.jpg)
 
 **Real-world use case — five sentences**
 
@@ -47,7 +47,7 @@ This guide brings together the available diagrams generated in the conversation.
 ## 02. Amazon Bedrock Guardrails
 **Concept:** Safe Generative AI Responses
 
-![Amazon Bedrock Guardrails architecture infographic](images/02-amazon-bedrock-guardrails.png)
+![Amazon Bedrock Guardrails architecture infographic](images/02-amazon-bedrock-guardrails.jpg)
 
 **Real-world use case — five sentences**
 
@@ -63,7 +63,7 @@ This guide brings together the available diagrams generated in the conversation.
 ## 03. Amazon Kendra
 **Concept:** Enterprise Knowledge Search
 
-![Amazon Kendra architecture infographic](images/03-amazon-kendra.png)
+![Amazon Kendra architecture infographic](images/03-amazon-kendra.jpg)
 
 **Real-world use case — five sentences**
 
@@ -79,7 +79,7 @@ This guide brings together the available diagrams generated in the conversation.
 ## 04. Amazon Bedrock Flows
 **Concept:** Automated Generative AI Workflow
 
-![Amazon Bedrock Flows architecture infographic](images/04-amazon-bedrock-flows.png)
+![Amazon Bedrock Flows architecture infographic](images/04-amazon-bedrock-flows.jpg)
 
 **Real-world use case — five sentences**
 
@@ -95,7 +95,7 @@ This guide brings together the available diagrams generated in the conversation.
 ## 05. AWS Inferentia
 **Concept:** Cost-Efficient Model Inference
 
-![AWS Inferentia architecture infographic](images/05-aws-inferentia.png)
+![AWS Inferentia architecture infographic](images/05-aws-inferentia.jpg)
 
 **Real-world use case — five sentences**
 
@@ -111,7 +111,7 @@ This guide brings together the available diagrams generated in the conversation.
 ## 06. Amazon Nova
 **Concept:** Multimodal AI Content Generation
 
-![Amazon Nova architecture infographic](images/06-amazon-nova.png)
+![Amazon Nova architecture infographic](images/06-amazon-nova.jpg)
 
 **Real-world use case — five sentences**
 
@@ -127,7 +127,7 @@ This guide brings together the available diagrams generated in the conversation.
 ## 07. AWS Trainium
 **Concept:** Large Model Training
 
-![AWS Trainium architecture infographic](images/07-aws-trainium.png)
+![AWS Trainium architecture infographic](images/07-aws-trainium.jpg)
 
 **Real-world use case — five sentences**
 
@@ -143,7 +143,7 @@ This guide brings together the available diagrams generated in the conversation.
 ## 08. Amazon Bedrock Prompt Management
 **Concept:** Reusable Versioned Prompts
 
-![Amazon Bedrock Prompt Management architecture infographic](images/08-amazon-bedrock-prompt-management.png)
+![Amazon Bedrock Prompt Management architecture infographic](images/08-amazon-bedrock-prompt-management.jpg)
 
 **Real-world use case — five sentences**
 
@@ -159,7 +159,7 @@ This guide brings together the available diagrams generated in the conversation.
 ## 09. Amazon Polly
 **Concept:** Text-to-Speech Notifications
 
-![Amazon Polly architecture infographic](images/09-amazon-polly.png)
+![Amazon Polly architecture infographic](images/09-amazon-polly.jpg)
 
 **Real-world use case — five sentences**
 
@@ -175,7 +175,7 @@ This guide brings together the available diagrams generated in the conversation.
 ## 10. Amazon Comprehend
 **Concept:** Customer Review Sentiment Analysis
 
-![Amazon Comprehend architecture infographic](images/10-amazon-comprehend.png)
+![Amazon Comprehend architecture infographic](images/10-amazon-comprehend.jpg)
 
 **Real-world use case — five sentences**
 
@@ -191,7 +191,7 @@ This guide brings together the available diagrams generated in the conversation.
 ## 11. Amazon Personalize
 **Concept:** Personalized Product Recommendations
 
-![Amazon Personalize architecture infographic](images/11-amazon-personalize.png)
+![Amazon Personalize architecture infographic](images/11-amazon-personalize.jpg)
 
 **Real-world use case — five sentences**
 
@@ -207,7 +207,7 @@ This guide brings together the available diagrams generated in the conversation.
 ## 12. Amazon Lex
 **Concept:** Customer Service Chatbot
 
-![Amazon Lex architecture infographic](images/12-amazon-lex.png)
+![Amazon Lex architecture infographic](images/12-amazon-lex.jpg)
 
 **Real-world use case — five sentences**
 
@@ -223,7 +223,7 @@ This guide brings together the available diagrams generated in the conversation.
 ## 13. Amazon Connect AI Capabilities
 **Concept:** AI-Assisted Contact Center
 
-![Amazon Connect AI Capabilities architecture infographic](images/13-amazon-connect-ai-capabilities.png)
+![Amazon Connect AI Capabilities architecture infographic](images/13-amazon-connect-ai-capabilities.jpg)
 
 **Real-world use case — five sentences**
 
@@ -239,7 +239,7 @@ This guide brings together the available diagrams generated in the conversation.
 ## 14. Amazon SageMaker Unified Studio
 **Concept:** Unified Data and ML Development
 
-![Amazon SageMaker Unified Studio architecture infographic](images/14-amazon-sagemaker-unified-studio.png)
+![Amazon SageMaker Unified Studio architecture infographic](images/14-amazon-sagemaker-unified-studio.jpg)
 
 **Real-world use case — five sentences**
 
@@ -255,7 +255,7 @@ This guide brings together the available diagrams generated in the conversation.
 ## 15. Amazon Titan
 **Concept:** Document Summarization
 
-![Amazon Titan architecture infographic](images/15-amazon-titan.png)
+![Amazon Titan architecture infographic](images/15-amazon-titan.jpg)
 
 **Real-world use case — five sentences**
 
@@ -271,7 +271,7 @@ This guide brings together the available diagrams generated in the conversation.
 ## 16. Amazon Lex — Alternative Architecture
 **Concept:** Conversational AI with Business Actions
 
-![Amazon Lex — Alternative Architecture architecture infographic](images/16-amazon-lex-alternative.png)
+![Amazon Lex — Alternative Architecture architecture infographic](images/16-amazon-lex-alternative.jpg)
 
 **Real-world use case — five sentences**
 
@@ -287,7 +287,7 @@ This guide brings together the available diagrams generated in the conversation.
 ## 17. Amazon Bedrock Data Automation
 **Concept:** Intelligent Invoice Processing
 
-![Amazon Bedrock Data Automation architecture infographic](images/17-amazon-bedrock-data-automation.png)
+![Amazon Bedrock Data Automation architecture infographic](images/17-amazon-bedrock-data-automation.jpg)
 
 **Real-world use case — five sentences**
 
@@ -303,7 +303,7 @@ This guide brings together the available diagrams generated in the conversation.
 ## 18. Strands Agents SDK
 **Concept:** Tool-Using AI Operations Agent
 
-![Strands Agents SDK architecture infographic](images/18-strands-agents-sdk.png)
+![Strands Agents SDK architecture infographic](images/18-strands-agents-sdk.jpg)
 
 **Real-world use case — five sentences**
 
