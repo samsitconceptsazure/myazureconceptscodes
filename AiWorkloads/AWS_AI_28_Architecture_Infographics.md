@@ -1,6 +1,6 @@
-# AWS AI — 28 Architecture Infographics
+# AWS AI — 28 Validated Architecture Infographics
 
-> All service icons in these diagrams are sourced exclusively from the AWS Architecture Icons package supplied with this guide. Non-service inputs and outputs are represented by text-only boxes; no substitute icons are used.
+**Icon policy:** AWS service pictograms are sourced only from the official AWS Architecture Icons ZIP provided by the user. Non-service inputs and outputs are text-only stages; no empty icon placeholders or fabricated logos are used.
 
 ## Contents
 
@@ -535,10 +535,16 @@
 4. When needed, the application invokes a controlled tool to read relevant records from DynamoDB.
 5. The developer tests tool permissions, error handling, and response quality before production release.
 
-**Architecture flow:** User question → Amazon API Gateway → AWS Lambda + Strands SDK → Amazon Bedrock → DynamoDB tool.
+**Architecture flow:** User question → Amazon API Gateway → AWS Lambda (Strands agent) ↔ Amazon Bedrock; the Lambda-hosted agent separately calls Amazon DynamoDB as an authorized tool; the answer returns through Lambda and API Gateway.
 
 ---
 
-## Icon attribution and implementation notes
+## Validation notes
 
-All pictorial service icons are taken from the AWS Architecture Icons ZIP supplied by the user. Labels for concepts without a dedicated service icon in the supplied pack are shown as text-only stages. The Amazon Q icon represents both Q Developer and Q Business, with distinct labels; Amazon Bedrock is used for features that do not have their own dedicated icon. AWS Trainium and AWS Inferentia are shown with the official Amazon EC2 icon and explicitly labeled accelerator hardware, not fabricated chip icons. Strands Agents SDK is shown as application code in AWS Lambda, not as an invented AWS service icon. Architecture examples are illustrative and should be validated for service availability, pricing, security, and supported integrations.
+- All 28 diagrams have a unique heading, architecture focus, and image filename.
+- All 28 diagrams use only service icons extracted from the supplied AWS Architecture Icons package.
+- Non-service stages have labels only, without empty icon placeholders.
+- Strands Agents SDK is labeled inside AWS Lambda, not represented by an invented standalone icon.
+- The Strands diagram distinguishes model reasoning through Bedrock from the DynamoDB tool call and notes the response path.
+- Some architecture flows are simplified conceptual workflows, not exhaustive deployment blueprints; verify IAM, authentication, data handling, and service availability before implementation.
+- All original five-sentence use-case sets have been preserved without rewriting.
