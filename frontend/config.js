@@ -1,0 +1,1 @@
+window.CHAT_API_URL = 'REPLACE_WITH_API_URL';
